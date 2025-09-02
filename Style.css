@@ -106,6 +106,17 @@ body{
     animation: Badgetransform 1.0s ease-in-out infinite alternate;
     
 }
+.box7{
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 20px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.9);
+    font-size: 20px;
+    text-align: center;
+    animation: Badgetransform 1.0s ease-in-out infinite alternate;
+    
+}
 a{
     width: 100%;
     padding: 10px 0;
